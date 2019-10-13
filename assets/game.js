@@ -34,7 +34,7 @@ function stopCountdown() {
 
 var questions = [
   {
-    question: "What is Walter Whites alias name?",
+    question: "What is Walter White's alias?",
     answers: [
       "Dr. Doolittle",
       "Stay Puft Marshmallow Man",
